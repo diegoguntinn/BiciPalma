@@ -1,6 +1,8 @@
 package edu.estatuas.bicipalma.;
 
-import domain.estacion.Estacion;
+import edu.estatuas.domain.bicicleta.Bicicleta;
+import edu.estatuas.domain.estacion.Estacion;
+import edu.estatuas.domain.tarjetausuario.TarjetaUsuario;
 
 public class BiciPalma {
 
